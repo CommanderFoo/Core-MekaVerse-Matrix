@@ -15,7 +15,7 @@ Assets {
   Marketplace {
     Description: "My custom tween library."
   }
-  SerializationVersion: 120
+  SerializationVersion: 121
   DirectlyPublished: true
   VirtualFolderPath: "Tween"
 }

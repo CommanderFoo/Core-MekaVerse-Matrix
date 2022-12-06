@@ -2,7 +2,7 @@ Assets {
   Id: 14365064741005197741
   Name: "RedPaintedMetal - V2"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 14175216485169441444
     ParameterOverrides {

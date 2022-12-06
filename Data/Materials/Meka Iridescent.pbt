@@ -2,7 +2,7 @@ Assets {
   Id: 3468968055323480790
   Name: "Meka Iridescent"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 6662310896267058003
     ParameterOverrides {

@@ -16,6 +16,10 @@ Objects {
   }
   ParentId: 2965427643534411985
   ChildIds: 2344365250878536633
+  ChildIds: 11675175580322921480
+  ChildIds: 1852179700283245119
+  ChildIds: 14443314947314153288
+  ChildIds: 14472895691351529997
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -38,6 +42,172 @@ Objects {
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14472895691351529997
+  Name: "Simple Exposure Post Process"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2859427472066680080
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Exposure"
+      Float: 0.137687638
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 6897661013278118883
+    }
+    TeamSettings {
+    }
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14443314947314153288
+  Name: "Color Grading Post Process"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2859427472066680080
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:White Temperature"
+      Float: 7445.77148
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 4767454844588942030
+    }
+    TeamSettings {
+    }
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 1852179700283245119
+  Name: "Vignette Grain Post Process"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2859427472066680080
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Vignette Intensity"
+      Float: 0.522000074
+    }
+    Overrides {
+      Name: "bp:Grain Intensity"
+      Float: 0
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14616046116108760219
+    }
+    TeamSettings {
+    }
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 11675175580322921480
+  Name: "Environment Fog Default VFX"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2859427472066680080
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 5513756614760609675
+    }
+    TeamSettings {
+    }
   }
   IsReplicationEnabledByDefault: true
 }
@@ -133,7 +303,7 @@ Objects {
     }
   }
   Relevance {
-    Value: "mc:eproxyrelevance:critical"
+    Value: "mc:edistancerelevance:critical"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

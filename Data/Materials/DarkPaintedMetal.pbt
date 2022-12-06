@@ -2,7 +2,7 @@ Assets {
   Id: 11037060095834690844
   Name: "DarkPaintedMetal"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 14175216485169441444
     ParameterOverrides {

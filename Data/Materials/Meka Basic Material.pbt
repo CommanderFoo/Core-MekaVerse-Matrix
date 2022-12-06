@@ -2,7 +2,7 @@ Assets {
   Id: 12178601884608254740
   Name: "Meka Basic Material"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 10184847056121543272
     ParameterOverrides {

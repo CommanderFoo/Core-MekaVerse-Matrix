@@ -2,7 +2,7 @@ Assets {
   Id: 275820949833196323
   Name: "DEPRECATED Meka Camo Dark Grey"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 18026185262406331737
     ParameterOverrides {

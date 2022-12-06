@@ -2,7 +2,7 @@ Assets {
   Id: 5822213373884649969
   Name: "GreenPaintedMetal- V3"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 14175216485169441444
     ParameterOverrides {

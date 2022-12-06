@@ -45,7 +45,17 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 7654651814405451232
+    value {
+    }
+  }
+  ObjectStates {
     key: 7885001205997608369
+    value {
+    }
+  }
+  ObjectStates {
+    key: 8158052648306409071
     value {
     }
   }
@@ -105,7 +115,17 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 11675175580322921480
+    value {
+    }
+  }
+  ObjectStates {
     key: 13068083414361748257
+    value {
+    }
+  }
+  ObjectStates {
+    key: 14443314947314153288
     value {
     }
   }

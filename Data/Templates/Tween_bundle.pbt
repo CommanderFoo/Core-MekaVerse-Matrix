@@ -47,5 +47,5 @@ Assets {
     Version: "1.11.0"
     Description: "My custom tween library."
   }
-  SerializationVersion: 120
+  SerializationVersion: 121
 }

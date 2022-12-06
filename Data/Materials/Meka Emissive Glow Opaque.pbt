@@ -2,7 +2,7 @@ Assets {
   Id: 4990386053523663150
   Name: "Meka Emissive Glow Opaque"
   PlatformAssetType: 13
-  SerializationVersion: 120
+  SerializationVersion: 121
   CustomMaterialAsset {
     BaseMaterialId: 13347005499323020450
     ParameterOverrides {
