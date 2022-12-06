@@ -1,6 +1,43 @@
 Name: "Gameplay Settings"
 RootId: 9086936746104183945
 Objects {
+  Id: 12990937630054397429
+  Name: "Cinematic Shot"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9086936746104183945
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  BindingSet {
+    BindingSetAsset {
+      Id: 15712243038875801628
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 14713340454944924967
   Name: "Third Person Camera Settings"
   Transform {

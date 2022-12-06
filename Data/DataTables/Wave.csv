@@ -1,2 +1,0 @@
-"PositionOffset[Vector3]","RotationOffset[Rotation]","StartTime[Float]","Duration[Float]","Object[Core Object Reference]","IgnorePosition[Bool]","IgnoreRotation[Bool]","Easing[String]"
-"0.000000,0.000000,0.000000","-79.732002,0.000000,0.000000","0.0","1.0","9D22A4F57439A16D","True","False","In_Out_Elastic"

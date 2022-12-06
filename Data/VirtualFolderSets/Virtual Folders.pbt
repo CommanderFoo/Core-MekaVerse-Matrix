@@ -8,5 +8,9 @@ Assets {
       VirtualFolderPath: "Tween"
       PlatformAssetType: 3
     }
+    Folders {
+      VirtualFolderPath: "Equipment"
+      PlatformAssetType: 3
+    }
   }
 }

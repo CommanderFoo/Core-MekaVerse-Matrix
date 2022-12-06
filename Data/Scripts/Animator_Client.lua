@@ -13,6 +13,38 @@ local function is_valid_num(a, b)
 	return a
 end
 
+local function get_last_position(index, keyframes, obj)
+	if(index == 1) then
+		return false
+	end
+
+	while(index > 1) do
+		local row = keyframes[index - 1]
+
+		if(row.Object == obj and not row.IgnorePosition) then
+			return row.PositionOffset
+		end
+
+		index = index - 1
+	end
+end
+
+local function get_last_rotation(index, keyframes, obj)
+	if(index == 1) then
+		return false
+	end
+
+	while(index > 1) do
+		local row = keyframes[index - 1]
+
+		if(row.Object == obj and not row.IgnoreRotation) then
+			return row.RotationOffset
+		end
+
+		index = index - 1
+	end
+end
+
 local function play_animation(key)
 	local animation = ANIMATIONS[key]
 
@@ -21,10 +53,11 @@ local function play_animation(key)
 	end
 
 	local keyframes = animation.Keyframes
+	local evt = animation.FinishedEvent or nil
 
 	for index, keyframe in ipairs(keyframes) do
-		local current_pos = keyframe.Object:GetObject():GetPosition()
-		local current_rot = keyframe.Object:GetObject():GetRotation()
+		local current_pos = get_last_position(index, keyframes, keyframe.Object) or keyframe.Object:GetObject():GetPosition()
+		local current_rot = get_last_rotation(index, keyframes, keyframe.Object) or keyframe.Object:GetObject():GetRotation()
 		local from = { x = 0, y = 0, z = 0, rx = 0, ry = 0, rz = 0 }
 		local to = { x = 0, y = 0, z = 0, rx = 0, ry = 0, rz = 0 }
 
@@ -82,6 +115,10 @@ local function play_animation(key)
 
 		tween:on_complete(function()
 			tweens = Tween.remove(tweens, tween)
+
+			if(index == #keyframes and evt ~= nil) then
+				Events.Broadcast("Finished", evt)
+			end
 		end)
 
 		tweens[#tweens + 1] = tween
@@ -94,5 +131,4 @@ function Tick(dt)
 	end
 end
 
-Task.Wait(1)
-play_animation("wave")
+Events.Connect("Play.Animation", play_animation)
