@@ -86,6 +86,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {
@@ -150,6 +151,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {
@@ -223,6 +225,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {
@@ -288,6 +291,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {
@@ -356,6 +360,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {
@@ -426,6 +431,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {
@@ -502,6 +508,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     DisableReceiveDecals: true
     InteractWithTriggers: true
     StaticMesh {

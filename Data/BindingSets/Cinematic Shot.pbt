@@ -11,7 +11,7 @@ Assets {
       BasicBindingData {
         BasicInputs {
           KeyboardPrimary {
-            Value: "mc:ebindingkeyboard:e"
+            Value: "mc:ebindingkeyboard:r"
           }
           KeyboardSecondary {
             Value: "mc:ebindingkeyboard:none"
@@ -21,7 +21,7 @@ Assets {
           }
         }
       }
-      Action: "Play"
+      Action: "PlayShot"
       CoreBehavior {
         Value: "mc:ecorebehavior:none"
       }

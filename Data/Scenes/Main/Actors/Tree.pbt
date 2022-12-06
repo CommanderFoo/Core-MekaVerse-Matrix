@@ -16582,6 +16582,744 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 157367316596901282
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 263111484032988058
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 348467318425979663
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 573067775063780613
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 905320778150672646
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 941315273299048978
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1144090477873339927
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1157883386705955390
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1184829042822010880
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1193070736636179997
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1282078649075090241
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1315552392624844151
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1480126352765390821
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1546333524535183094
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1658470072617249790
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1743407498126947869
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1800426330769745213
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1926689654816567512
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1985149701709818451
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2027471942648984834
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2035869787518431840
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2089775820515676497
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2374667959777000619
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2427763161932481953
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2577378893339129005
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2664899894757181541
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2803988580926657976
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2852017142084985570
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2979030175457020118
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3104996646381047767
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3121651328845322548
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3288252654959997720
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3535054334067482561
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3550246788162190305
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3563515012806929176
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3613012743144317955
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3691456425514221165
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3705332697369639780
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3713429650595066665
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3843349953338516395
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3887452730197913502
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3902933855758855443
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3923404398650676353
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3936549349913502628
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3964330872345064603
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4142208911753737066
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4224181822316314333
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4325937746162578207
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4425156860334223895
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4585586397724513784
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5123706191457227236
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5157619909840363210
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5162639001851583179
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5195207883402038941
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5262329092616894900
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5271546596502975935
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5294357968618925176
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5501463974466024378
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5742675483198067660
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5826703025769017152
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5845936911039913225
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5858884619137110187
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5997973007463867409
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6101468504148695911
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6269011607710761318
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6459220591515025208
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6534406927016391004
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6726969056054384036
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6836241038625810026
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6953377112664577151
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7010027982430059515
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7068745939164824542
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7132982501882948290
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7156762053984239817
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7221985472921306439
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7336174138568448485
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7374082899887419872
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7439037725278332115
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7444417116290742258
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7464573561806652546
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7480659591499463790
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7501706825370451287
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 7695392626542736427
       value {
         Overrides {
@@ -16598,6 +17336,897 @@ Objects {
           Rotator {
             Yaw: -179.999985
           }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7715658411349382258
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7897577531088087875
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7948213978585524256
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7966534975773184870
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8146810401073527391
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8273423509113558726
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8326913637611960221
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8364704291607979791
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8489274804413606128
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8972859043413685753
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9057943473523088765
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9085423181990936443
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9143278742874844345
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9212995764315937244
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9227048097257696452
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9227443782611875083
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9234407046206832823
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9381730654805884559
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9494593695379366459
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9622947205613674756
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9700217640130248112
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9886491519052700814
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10229390513655246973
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10366716690382523663
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10678761843176577068
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10850267220743034912
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10870757698454429650
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10886132206387325891
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10895579909322567457
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11060189083537958251
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11414512659068473659
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11432804258167904646
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11459364679931810568
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11660463789817722316
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11712987833630990647
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11774674452393500988
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12132246594979747609
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12198240033913975561
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12392522005141745762
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12487485455110047001
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12689007225846322907
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12747755303221826806
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12863945237998653035
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12914320229850038337
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12947128943806375733
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13019734514014534514
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13040249002156011544
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13091972289080441615
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13134514399105065100
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13287080918957654719
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13401421957584154551
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13643161685001717007
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13834500263411169617
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13901605727001032570
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14008336435088856577
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14120452487437557407
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14149163521897103249
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14157473386665834018
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14353157098502409991
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14395431064168950972
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14399136175763523620
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14414935586629921231
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14499129358857292141
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14612692869155720971
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15029128473824292983
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15063553679871397947
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15288586245530473225
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15316155327420778563
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15333084448691746730
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15347120279899894015
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15356695237930070822
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15383162827313722437
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15599564181366315153
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15684381758937759772
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15727084145534926934
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15801123310039083593
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15904997943801574454
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16309132082495869791
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16366392413959711582
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16657876075126093759
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16771684375955068442
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16847324222981778485
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16900606437916966681
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17004466392128054559
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17011546827764666329
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17118088806887335929
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17137820910418971750
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17219701135553895374
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17242920815063331955
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17447282337358637336
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17678287232849291091
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17724184199071190638
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17809186952781140423
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17884212243024226219
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17983672950710698713
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18016684796979085900
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18171626744415135447
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18268297485860844842
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18423245526022545089
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: false
         }
       }
     }
