@@ -6,12 +6,12 @@ Input.actionPressedEvent:Connect(function(player, action)
 	if(action == "PlayShot" and not bullet_time) then
 		Events.Broadcast("Play.Matrix")
 
-		Task.Wait(4)
+		Task.Wait(2.5)
 		FIRE.visibility = Visibility.FORCE_ON
 		FIRE:Play()
 		bullet_time = true
 
-		Task.Wait(3)
+		Task.Wait(4.5)
 		Events.BroadcastToServer("Spawn.Projectiles")
 		Events.Broadcast("Play.Animation", "bullet_time")
 	end
