@@ -55,6 +55,8 @@ local v2 = Vector3.New(r2.x, r2.y, r2.z)
 isHeadTake = false
 nextTake = nil
 
+local can_override = true
+
 function Tick(deltaTime)
 	if not isPlaying then return end
 	
@@ -148,8 +150,10 @@ function Play()
 	
 	startDistanceToTarget = (START_POS - TARGET:GetWorldPosition()).size
 	
-	local player = Game.GetLocalPlayer()
-	player:SetOverrideCamera(CAMERA)
+	if(can_override) then
+		local player = Game.GetLocalPlayer()
+		player:SetOverrideCamera(CAMERA)
+	end
 end
 
 function Stop()
@@ -195,6 +199,12 @@ function SetActiveTake(whichTake)
 end
 
 function OnBindingPressed(player, action)
+	if(action == "PlayNoOverride") then
+		can_override = not can_override
+
+		print("Camera Override: ", can_override)
+	end
+
 	if (action == KEY_BINDING) then
 		if isPlaying and elapsedTime > 0 then
 			Next()

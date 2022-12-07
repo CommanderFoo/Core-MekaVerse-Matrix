@@ -22,6 +22,7 @@ Objects {
   ChildIds: 17260705414582143376
   ChildIds: 18030130097622157119
   ChildIds: 15806602585128574965
+  ChildIds: 12081650971851695171
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -39,6 +40,32 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12081650971851695171
+  Name: "Free Cam"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17005143668727999315
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Free Cam"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2471078618513625708
+    }
+  }
 }
 Objects {
   Id: 15806602585128574965

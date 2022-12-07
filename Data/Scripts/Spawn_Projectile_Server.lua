@@ -45,7 +45,9 @@ Events.Connect("Spawn.Projectiles", function(player, action)
 			bullet_time = true
 
 			for index, p in ipairs(projectiles) do
-				p.speed = 30
+				if(Object.IsValid(p)) then
+					p.speed = 30
+				end
 			end
 		end, .63)
 	end

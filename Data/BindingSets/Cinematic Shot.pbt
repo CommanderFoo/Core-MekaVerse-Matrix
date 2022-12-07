@@ -11,7 +11,7 @@ Assets {
       BasicBindingData {
         BasicInputs {
           KeyboardPrimary {
-            Value: "mc:ebindingkeyboard:r"
+            Value: "mc:ebindingkeyboard:f"
           }
           KeyboardSecondary {
             Value: "mc:ebindingkeyboard:none"
@@ -22,6 +22,29 @@ Assets {
         }
       }
       Action: "PlayShot"
+      CoreBehavior {
+        Value: "mc:ecorebehavior:none"
+      }
+      IsEnabledOnStart: true
+    }
+    Bindings {
+      BindingType {
+        Value: "mc:ebindingtype:basic"
+      }
+      BasicBindingData {
+        BasicInputs {
+          KeyboardPrimary {
+            Value: "mc:ebindingkeyboard:v"
+          }
+          KeyboardSecondary {
+            Value: "mc:ebindingkeyboard:none"
+          }
+          Controller {
+            Value: "mc:ebindinggamepad:none"
+          }
+        }
+      }
+      Action: "PlayNoOverride"
       CoreBehavior {
         Value: "mc:ecorebehavior:none"
       }
